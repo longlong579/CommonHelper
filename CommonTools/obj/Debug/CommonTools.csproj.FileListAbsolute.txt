@@ -1,0 +1,10 @@
+D:\SinaiProjects\SZGUI\WebService\CommonTools\bin\Debug\HZZG.Common.Tools.dll
+D:\SinaiProjects\SZGUI\WebService\CommonTools\bin\Debug\HZZG.Common.Tools.pdb
+D:\SinaiProjects\SZGUI\WebService\CommonTools\obj\Debug\HZZG.Common.Tools.dll
+D:\SinaiProjects\SZGUI\WebService\CommonTools\obj\Debug\HZZG.Common.Tools.pdb
+D:\SinaiProjects\SZGUI\WebService\CommonTools\obj\Debug\CommonTools.csprojResolveAssemblyReference.cache
+D:\XHLProjects\CommonTools\obj\Debug\HZZG.Common.Tools.dll
+D:\XHLProjects\CommonTools\obj\Debug\HZZG.Common.Tools.pdb
+D:\XHLProjects\CommonTools\bin\Debug\HZZG.Common.Tools.dll
+D:\XHLProjects\CommonTools\bin\Debug\HZZG.Common.Tools.pdb
+D:\XHLProjects\CommonTools\obj\Debug\CommonTools.csprojResolveAssemblyReference.cache
